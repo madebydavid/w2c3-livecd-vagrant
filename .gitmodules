@@ -1,0 +1,3 @@
+[submodule "w2c3-livecd"]
+	path = w2c3-livecd
+	url = git@github.com:pablobm/w2c3-livecd.git
