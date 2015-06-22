@@ -35,3 +35,4 @@ vagrant@jessie-amd64:~$ cd /vagrant/w2c3-livecd/
 vagrant@jessie-amd64:/vagrant/w2c3-livecd$ sudo lb build
 ```
 
+### 5. Go and make some coffee; the previous command takes ages!
